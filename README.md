@@ -1,0 +1,2 @@
+# textanalytics
+Django and NLTK 
